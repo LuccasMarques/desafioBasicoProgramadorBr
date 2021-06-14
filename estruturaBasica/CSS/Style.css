@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+
+.container{
+    background-image: url("../fundos/backgorund.png");
+    background-size: cover;
+    width: 50%;
+}
+
+.nome{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+
+}
+
+.lista{
+    padding-bottom: 15px;
+}
+
+.itens{
+    margin-left: 25px;
+    font-size: 20px;
+    padding: 4px;
+}
+
+.insta{
+    list-style-image: url("../fundos/Insta.png");
+
+}
+.twitter{
+    list-style-image: url("../fundos/Twitter.png")
+
+}
+.youtube{
+    list-style-image: url("../fundos/Youtube.png")
+
+}
